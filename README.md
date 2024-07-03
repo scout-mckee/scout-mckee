@@ -29,5 +29,7 @@ Here are some notable projects I’ve worked on (check out my profile to see som
 ## Get in Touch
 
 Feel free to reach out to me via LinkedIn or email. I’m always open to connecting with fellow data enthusiasts and potential collaborators.
+
 Email: scoutmckee01@gmail.com
+
 Linkedin: www.linkedin.com/in/scout-mckee
