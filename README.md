@@ -27,6 +27,12 @@ Here are some notable projects I’ve worked on (check out my profile to see som
 - Used Python and data analysis skills to examine the hydrogen bond network in models of supercooled water. 
 - Advanved Major research project in computational physics. 
 
+**UBC Master of Data Science Course Projects:**
+* Co-created a dashboard for visualizing the gender disparity in leadership positions in Canada - https://github.com/UBC-MDS/DSCI-532_2024_13_Juno
+* Created a Shiny app to filter and visualize surf locations in California  - https://github.com/scout-mckee/california_surf_dashboard
+* Co-created a Python package to perform exploratory data analysis - https://github.com/UBC-MDS/datexplore
+* Co-developed a machine learning project to predict diabetes - https://github.com/UBC-MDS/diabetes_classification_model
+
 ## Get in Touch
 
 Feel free to reach out to me via LinkedIn or email. I’m always open to connecting with fellow data enthusiasts and potential collaborators.
