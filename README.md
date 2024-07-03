@@ -19,7 +19,7 @@ Here are some notable projects I’ve worked on (check out my profile to see som
 
 **SRK Consulting, Benchmarking Tailings Facilities Risk:** 
 - Developed interpretable machine learning and statistical models to evaluate risk in tailings storage facilities (TSF). 
-- Capstone project in collaboration with SRK consulting.
+- Capstone project in collaboration with SRK Consulting.
 
 **StFX University Physics Department, An Analysis of the Hydrogen Bond Network in Simulations of Supercooled Water:**
 - Used Python and data analysis skills to examine the hydrogen bond network in models of supercooled water. 
