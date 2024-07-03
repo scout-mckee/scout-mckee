@@ -8,9 +8,11 @@ Interests: Data-driven decision making, data analysis, machine learning, and dat
 Goals: I am currently looking for work and eager to contribute to innovative projects where I can apply my data science expertise.
 
 ## What I Do
-Data Analysis: Adept in analyzing complex datasets to uncover insights and trends.
-Machine Learning: Skilled in building and deploying machine learning models to solve real-world problems.
-Data Visualization: Experienced in creating compelling visualizations to communicate data-driven stories effectively.
+🧐 Data Analysis: analyzing complex datasets to uncover insights and trends.
+
+🤖 Machine Learning: building and deploying machine learning models to solve real-world problems.
+
+🎨 Data Visualization: creating compelling visualizations to communicate data-driven stories effectively.
 
 ## Projects
 
