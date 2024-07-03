@@ -3,7 +3,9 @@ I am a recent graduate from the UBC Master of Data Science program with a backgr
 ## About Me
 
 Education: Master of Data Science, University of British Columbia (UBC)
+
 Interests: Data-driven decision making, data analysis, machine learning, and data visualization.
+
 Goals: I am currently looking for work and eager to contribute to innovative projects where I can apply my data science expertise.
 
 ## What I Do
