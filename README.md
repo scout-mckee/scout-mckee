@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Scout!
-I am a recent graduate from the UBC Master of Data Science program! I am passionate about about using data science to drive informed decision-making. 
-
+I am a recent graduate from the UBC Master of Data Science program with a background in computational physics and mathematics. My multidisciplinary background has strengthened my ability to tackle complex problems from differnt angles. With a strong foundation data analysis and data science, I excel at breaking down challenging issues and developing data-driven solutions.
 ## About Me
 
 Education: Master of Data Science, University of British Columbia (UBC)
